@@ -75,23 +75,27 @@ This project includes a Client, Admin Client, Server, Filter Process, Room Manag
 
 ▶️ How to Run:
 
-1️⃣ Start the Server
+1️⃣ Start the Server:
+
     ./server
 
-2️⃣ Start a Client
+2️⃣ Start a Client:
+
     ./client <server-ip>
 
 Example:
+
     ./client 127.0.0.1
 
-3️⃣ Start the Admin Client
-./admin_client <server-ip>
+3️⃣ Start the Admin Client:
+
+    ./admin_client <server-ip>
 
 Admin password is set inside server.c:
-#define ADMIN_PASSWORD "admin123"
+
+    #define ADMIN_PASSWORD "admin123"
 
 🧑‍💻 Client Commands
-
     Command	                    Description
     /nick <name>	            Change username
     /join <room>	            Switch rooms
