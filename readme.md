@@ -96,6 +96,7 @@ Admin password is set inside server.c:
     #define ADMIN_PASSWORD "admin123"
 
 🧑‍💻 Client Commands
+
     Command	                    Description
     /nick <name>	            Change username
     /join <room>	            Switch rooms
