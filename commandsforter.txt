@@ -1,0 +1,11 @@
+
+Hosting the server: 
+./server
+
+Hosting the clients: 
+./client 127.0.0.1
+
+Hosting the admin client:
+./admin_client 127.0.0.1
+
+/appeal Please unmute me — I had a question about the assignment.
