@@ -9,7 +9,7 @@ A fully functional multi-client chat application built using Unix System Program
     File handling (chat history logs)
     Signal handling
     Process coordination
-This project includes a Client, Admin Client, Server, Filter Process, Room Management, Message History, and more.
+This project includes a Client, Admin Client, Server, Filter Process, Room Management, Message History, and more
 
 📌 Features
 🧵 Core Chat Features:
